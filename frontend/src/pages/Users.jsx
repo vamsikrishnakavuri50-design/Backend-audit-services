@@ -246,7 +246,7 @@ function Users() {
                     {user.role}
                   </span>
                 </td>
-
+// Added search functionality
                 <td>
 
                   <button
