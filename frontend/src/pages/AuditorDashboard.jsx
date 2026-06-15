@@ -2,6 +2,8 @@ function AuditorDashboard() {
   return (
     <div>
 
+      // Page title
+
       <h1 className="page-title">
         Auditor Dashboard
       </h1>
@@ -17,6 +19,8 @@ function AuditorDashboard() {
           <h3>Security Alerts</h3>
           <h1>View</h1>
         </div>
+
+        // New card for reports
 
         <div className="card">
           <h3>Reports</h3>

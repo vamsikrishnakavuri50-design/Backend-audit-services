@@ -8,6 +8,8 @@ function AuditorSideBar() {
         Audit Monitor
       </h2>
 
+      // Navigation links
+
       <nav>
 
         <Link

@@ -1,5 +1,7 @@
 function DashboardHome() {
   return (
+
+    // Main dashboard component
     <>
       <h1>Audit Monitoring Dashboard</h1>
 
