@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import API from "../services/AuditApi";
 
+// Users component for managing user accounts (Admin only)
 function Users() {
   const [users, setUsers] = useState([]);
   const [search, setSearch] = useState("");
@@ -246,7 +247,7 @@ function Users() {
                     {user.role}
                   </span>
                 </td>
-// Added search functionality
+          
                 <td>
 
                   <button
